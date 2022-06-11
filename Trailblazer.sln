@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailblazer.Client", "Trailblazer.Client\Trailblazer.Client.csproj", "{D4C5E54A-EFDE-4BAF-AB90-24BD80C9AC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailblazer.Server", "Trailblazer.Server\Trailblazer.Server.csproj", "{27647BF1-896E-4CAF-8CE1-D36C8218CDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C5E54A-EFDE-4BAF-AB90-24BD80C9AC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C5E54A-EFDE-4BAF-AB90-24BD80C9AC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C5E54A-EFDE-4BAF-AB90-24BD80C9AC5A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D4C5E54A-EFDE-4BAF-AB90-24BD80C9AC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C5E54A-EFDE-4BAF-AB90-24BD80C9AC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C5E54A-EFDE-4BAF-AB90-24BD80C9AC5A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{27647BF1-896E-4CAF-8CE1-D36C8218CDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27647BF1-896E-4CAF-8CE1-D36C8218CDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27647BF1-896E-4CAF-8CE1-D36C8218CDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27647BF1-896E-4CAF-8CE1-D36C8218CDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7FA6F8-6FC4-4043-B3F5-25F54FC09640}
+	EndGlobalSection
+EndGlobal
